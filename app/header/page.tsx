@@ -60,7 +60,7 @@ const Username: React.FC = () => {
         <span className="text-xs md:text-sm bg-slate-300 text-black font-bold px-2 py-1 rounded-full">
           {points}
         </span>
-        <span className="text-xs md:text-sm bg-slate-300 text-black font-bold px-2 py-1 rounded-full">
+        <span className="text-[11px] md:text-sm bg-slate-300 text-black font-bold px-2 py-1 rounded-full">
           {partyTickets}
         </span>
         <div className="">
